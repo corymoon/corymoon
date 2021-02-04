@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Cory 👋
 
-- 🔭 I’m currently working on _petstat_ a doggy app for humans.
-- 🌱 I’m currently learning C++, Dart/Flutter
+- 🔭 I’m currently working on [_petstat_](https://petstat.app) (a doggy app for humans).
+- 🌱 I’m currently learning C++, Dart/Flutter, and speed solving a Rubik's Cube.
 - 💬 Ask me about my poodles 🐩
 
-//// I really love using this stuff<br>
+//// I really love using this stuff<br><br>
 ![dart](https://img.shields.io/badge/_-Dart-292e33?style=flat-square&logo=dart&logoColor=white)
 ![python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=python&logoColor=white)
 ![firebase](https://img.shields.io/badge/_-firebase-292e33?style=flat-square&logo=firebase&logoColor=fff)

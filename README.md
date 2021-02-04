@@ -4,6 +4,13 @@
 - 🌱 I’m currently learning C++, Dart/Flutter
 - 💬 Ask me about my poodles 🐩
 
+//// I really love using this stuff<br>
+![dart](https://img.shields.io/badge/_-Dart-292e33?style=flat-square&logo=dart&logoColor=white)
+![python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=python&logoColor=white)
+![firebase](https://img.shields.io/badge/_-firebase-292e33?style=flat-square&logo=firebase&logoColor=fff)
+
+
+<!-- spotify -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1250179375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--

@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++, Dart/Flutter, and speed solving a Rubik's Cube.
 - 💬 Ask me about my poodles 🐩
 
-##### //// I really love using this stuff<br>
+#### I really love using this stuff<br>
 ![dart][dart-badge]
 ![python][python-badge]
 ![vue][vue-badge]
@@ -14,6 +14,7 @@
 <!-- spotify -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1250179375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+<!-- badges -->
 [dart-badge]: https://img.shields.io/badge/_-Dart-383a59?style=flat-square&logo=dart&logoColor=white "Dart badge"
 [python-badge]: https://img.shields.io/badge/_-Python-383a59?style=flat-square&logo=python&logoColor=white "Python badge"
 [sass-badge]: https://img.shields.io/badge/_-Sass-383a59?style=flat-square&logo=sass&logoColor=white "Sass badge"

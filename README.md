@@ -5,7 +5,7 @@
 - 💬 Ask me about my poodles 🐩
 
 #### I really love using this stuff<br>
-![dart][dart-badge] ![python][python-badge] ![vue][vue-badge] ![sass][sass-badge] ![firebase][firebase-badge]
+![dart][dart-badge] ![python][python-badge] ![vue][vue-badge] ![sass][sass-badge] ![firebase][firebase-badge] ![go][go-badge]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cory-g&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -19,3 +19,6 @@
 [sass-badge]: https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white "Sass badge"
 [firebase-badge]: https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase "Firebase badge"
 [vue-badge]: https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D "Vue badge"
+[go-badge]: https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white "Go badge"
+
+

@@ -5,11 +5,7 @@
 - 💬 Ask me about my poodles 🐩
 
 #### I really love using this stuff<br>
-![dart][dart-badge]
-![python][python-badge]
-![vue][vue-badge]
-![sass][sass-badge]
-![firebase][firebase-badge]
+![dart][dart-badge] ![python][python-badge] ![vue][vue-badge] ![sass][sass-badge] ![firebase][firebase-badge]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cory-g&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -18,8 +14,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1250179375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- badges -->
-[dart-badge]: https://img.shields.io/badge/_-Dart-383a59?style=flat-square&logo=dart&logoColor=white "Dart badge"
-[python-badge]: https://img.shields.io/badge/_-Python-383a59?style=flat-square&logo=python&logoColor=white "Python badge"
-[sass-badge]: https://img.shields.io/badge/_-Sass-383a59?style=flat-square&logo=sass&logoColor=white "Sass badge"
-[firebase-badge]: https://img.shields.io/badge/_-Firebase-383a59?style=flat-square&logo=firebase&logoColor=white "Firebase badge"
-[vue-badge]: https://img.shields.io/badge/_-Vue-383a59?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjAuMiwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjQgMjQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojRkZGRkZGO30KPC9zdHlsZT4KPHRpdGxlPlZ1ZS5qcyBpY29uPC90aXRsZT4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI0LDEuNmgtOS45TDEyLDUuMkw5LjksMS42SDBsMTIsMjAuOEwyNCwxLjZ6IE0xMiwxNC4xTDUuMiwyLjJoNC40TDEyLDYuNGwyLjQtNC4yaDQuNEwxMiwxNC4xeiIvPgo8L3N2Zz4K "Vue badge"
+[dart-badge]: https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white "Dart badge"
+[python-badge]: https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white "Python badge"
+[sass-badge]: https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white "Sass badge"
+[firebase-badge]: https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase "Firebase badge"
+[vue-badge]: https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D "Vue badge"

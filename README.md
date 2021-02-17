@@ -11,6 +11,9 @@
 ![sass][sass-badge]
 ![firebase][firebase-badge]
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cory-g&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!-- spotify -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1250179375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 

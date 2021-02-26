@@ -1,7 +1,7 @@
 ### Hi there, I'm Cory 👋
 
 - 🔭 I’m currently working on [_petstat_](https://petstat.app) (a doggy app for humans), as well as a BS in Computer Science.
-- 🌱 I’m currently learning C++, Dart/Flutter, and speed solving a Rubik's Cube.
+- 🌱 I’m currently learning C++, Go, Dart/Flutter, and speed solving a Rubik's Cube.
 - 💬 Ask me about my poodles 🐩
 
 #### I really love using this stuff<br>
